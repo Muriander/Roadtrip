@@ -54,9 +54,9 @@ margin-bottom: 1rem;
   color: #616f39;
 }
 #bandprofiel {
-  padding: 7% 15%;
+  padding: 0 20%;
   background-color: #616f39;
-  position: relative;
+
 }
 .feature-box {
   text-align: center;
@@ -65,14 +65,20 @@ margin-bottom: 1rem;
 .testimonial-image {
   width: 20%;
 }
-.carousel-item {
-    padding: 7% 15%;
+.testimonial-text {
+  font-size: 2.7rem;
 }
-
+.carousel-item {
+  padding: 7% 15%;
+}
+.carousel-item-active {
+  padding: 7% 15%;
+}
 .naming {
-  font-family: 'Amatic SC', cursive;
+  font-family:  'Pacifico', cursive;
   font-weight: 900;
-  font-size: 5rem;
+  font-size: 4rem;
+    color: #a7d129;
 }
 #footer {
   text-align: center;
