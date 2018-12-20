@@ -16,30 +16,31 @@ font-family: 'Amatic SC', cursive; */
   padding-left: 11%;
 
 }
-.nav-item {
-
-}
 .nav-link {
   font-family: 'Amatic SC', cursive;
   font-size: 1.5rem;
     padding-left: 20px;
     padding-right: 20px;
+
 }
 
 h1 {
   font-family: 'Amatic SC', cursive;
   font-size: 4rem;
+  font-weight: 900;
 }
 h2 {
   font-family:  'Pacifico', cursive;
 }
 h3 {
   font-family: 'Amatic SC', cursive;
+  font-weight: 700;
 }
 .intro-words {
   padding-top: 4%;
   font-family: 'Amatic SC', cursive;
   text-align: center;
+  font-weight: 900;
 }
 
 .tony {
