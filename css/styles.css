@@ -71,7 +71,8 @@ margin-bottom: 1rem;
 
 .naming {
   font-family: 'Amatic SC', cursive;
-  font-size: 2rem;
+  font-weight: 900;
+  font-size: 5rem;
 }
 #footer {
   text-align: center;
