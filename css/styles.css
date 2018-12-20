@@ -8,12 +8,13 @@ font-family: 'Amatic SC', cursive; */
 }
 
 .collapse {
-  padding-right: 150px;
+  padding-right: 100px;
 }
 .navbar-brand {
   font-family: 'Amatic SC', cursive;
   font-size: 4rem;
   padding-left: 11%;
+
 }
 .nav-item {
 
@@ -36,16 +37,20 @@ h3 {
   font-family: 'Amatic SC', cursive;
 }
 .intro-words {
-  padding-left: 13%;
   padding-top: 4%;
   font-family: 'Amatic SC', cursive;
+  text-align: center;
 }
 
 .tony {
   border-radius: 100%;
-  margin: auto 150px 40px auto;
+  display: block;
+margin-left: auto;
+margin-right: auto ;
+margin-bottom: 7%;
   width: 70%;
     right: 30%;
+    align: center;
 }
 
 .fas {
