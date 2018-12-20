@@ -31,8 +31,9 @@ h1 {
 }
 h2 {
   font-family:  'Pacifico', cursive;
-
-
+}
+h3 {
+  font-family: 'Amatic SC', cursive;
 }
 .intro-words {
   padding-left: 13%;
@@ -87,7 +88,7 @@ margin-bottom: 1rem;
 }
 
 #contact {
-  background-color: #3e432e;
+  background-color: #616f39;;
    color: #a7d129;
    text-align: center;
 }
@@ -97,7 +98,7 @@ margin-bottom: 1rem;
 .btn {
   margin-bottom: 20px;
   margin-left: 30px;
-  color: #616f39;
+  color: #3e432e;
 }
 .btn:hover {
   background-color: #a7d129;
@@ -105,11 +106,20 @@ margin-bottom: 1rem;
 
 #fanware {
   background-color: #fff;
-   color: #3e432e;
+   color: #616f39;
    text-align: center;
 }
 #calender {
-  background-color: #3e432e;
+  background-color: #616f39;
    color: #a7d129;
    text-align: center;
+}
+#fanware-page {
+  background-color: #616f39;
+  text-align: center;
+}
+#music {
+  background-color: #616f39;
+  color: #a7d129;
+  text-align: center;
 }
